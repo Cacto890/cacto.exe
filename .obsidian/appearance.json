@@ -1,3 +1,8 @@
 {
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "cssTheme": "Sandstorm",
+  "accentColor": "#f5bd5c",
+  "textFontFamily": "Sitka Display",
+  "interfaceFontFamily": "",
+  "baseFontSize": 17
 }

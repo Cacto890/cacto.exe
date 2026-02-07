@@ -40,7 +40,10 @@
   "expandedSpaces": [
     "/",
     "//Tags",
-    "//school.bin"
+    "//school.bin",
+    "//school.bin/school.bin/stage7.jpg",
+    "//school.bin/school.bin/stage7.jpg/school.bin/stage7.jpg/geography.js",
+    "//Notion"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school.bin/pluh.md",
+                "file": "school.bin/stage7.jpg/geography.js/geography.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pluh"
+              "title": "geography.js"
             }
           }
         ]
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school.bin/pluh.md",
+                "file": "school.bin/stage7.jpg/geography.js/geography.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pluh"
+              "title": "Backlinks for geography.js"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school.bin/pluh.md",
+                "file": "school.bin/stage7.jpg/geography.js/geography.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from pluh"
+              "title": "Outgoing links from geography.js"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school.bin/pluh.md",
+                "file": "school.bin/stage7.jpg/geography.js/geography.js.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pluh"
+              "title": "Outline of geography.js"
             }
           },
           {
@@ -202,14 +202,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8035be753681b1ca",
+  "active": "1a804eb4de356b31",
   "lastOpenFiles": [
+    "school.bin/stage7.jpg/geography.js/01-afrika.md",
+    "Notion",
+    "school.bin/stage7.jpg/geography.js/geography.js.md",
+    "school.bin/stage7.jpg/stage7.jpg.md",
+    "school.bin/stage7.jpg/geography.js",
+    "school.bin/stage8.png/stage8.png.md",
     "school.bin/school.bin.md",
-    "Vault.md",
+    "school.bin/stage8.png",
+    "school.bin/stage7.jpg",
+    "school.bin/Untitled.md",
     "school.bin/pluh.md",
+    "Vault.md",
     "school.bin",
     "Untitled.md",
     "Tags/Tags.md",

@@ -1,6 +1,8 @@
 ---
 aliases:
   - KÉMIA
+color: ""
+sticker: ""
 ---
 
 
