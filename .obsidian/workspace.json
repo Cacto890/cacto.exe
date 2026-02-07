@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c44431874fae3762",
+        "id": "039a184fe32bbb9a",
         "type": "tabs",
         "children": [
           {
-            "id": "9569d259ff3a81c4",
+            "id": "1a804eb4de356b31",
             "type": "leaf",
             "state": {
-              "type": "mk-uri-view",
+              "type": "markdown",
               "state": {
-                "path": "https://www.make.md/static/latest.md"
+                "file": "pluh.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "https://www.make.md/static/latest.md"
-            }
-          },
-          {
-            "id": "09689270d0ec6a8b",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/GetStarted.md"
-              },
-              "icon": "lucide-file",
-              "title": "https://www.make.md/static/GetStarted.md"
+              "title": "pluh"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pluh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for pluh"
             }
           },
           {
@@ -134,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pluh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from pluh"
             }
           },
           {
@@ -176,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "pluh.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of pluh"
             }
           },
           {
@@ -213,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09689270d0ec6a8b",
+  "active": "1a804eb4de356b31",
   "lastOpenFiles": [
     "Tags",
     "yoyoyo.md"
