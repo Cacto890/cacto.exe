@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pluh.md",
+                "file": "school.bin/pluh.md",
                 "mode": "source",
                 "source": false
               },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pluh.md",
+                "file": "school.bin/pluh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pluh.md",
+                "file": "school.bin/pluh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pluh.md",
+                "file": "school.bin/pluh.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -205,8 +205,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a804eb4de356b31",
+  "active": "8035be753681b1ca",
   "lastOpenFiles": [
+    "school.bin/school.bin.md",
+    "Vault.md",
+    "school.bin/pluh.md",
+    "school.bin",
+    "Untitled.md",
+    "Tags/Tags.md",
     "Tags",
     "yoyoyo.md"
   ]
